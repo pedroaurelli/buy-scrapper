@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'fira-code', monospace;
+}
+
+html {
+  background-color: #1f1f1f;
+  color: #9c9c9c
+}
